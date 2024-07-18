@@ -21,9 +21,9 @@ let dialogVisible = ref(false)
             </template>
             <div class="text item">
                 <el-avatar src="https://q1.qlogo.cn/g?b=qq&nk=2315049216&s=640" />
-            </div>呆yangcheng
-            <h1>Daiyangcheng</h1>
-            <p>Daiyangcheng<el-text class="mx-1" type="danger">❤</el-text>，🤤🤤🤤🤤🤤......🤤🤤🤤......</p>
+            </div>
+            <h1>烟墨</h1>
+            <p>烟墨<el-text class="mx-1" type="danger">❤</el-text>，🤤🤤🤤🤤🤤......🤤🤤🤤......</p>
             <p>🥰🥰🥰🥰🥰🥰</p>
         </el-card>
 
