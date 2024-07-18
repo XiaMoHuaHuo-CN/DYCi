@@ -42,6 +42,7 @@ let dialogVisible = ref(false)
         <Footer />
         <License />
     </el-main>
+    <div id="aplayer"></div>
 </template>
 
 <style>
